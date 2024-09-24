@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img alt="Open Sauced" src="./imgs/data_structure_algorithm.png" width="300px">
+  <img alt="Open Sauced" src="./imgs/data_structure_algorithm-no-bg.png" width="300px">
 </div>
 
 ### 🎯 Goal
