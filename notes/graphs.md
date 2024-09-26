@@ -1,6 +1,6 @@
-## Graphs
+# Graphs
 
-> ### Currently for Adjacency Lists only!
+> ## Currently for adjacency lists only
 >
 > TODO:// Adjacency matrix, Incidence matrix
 
@@ -66,4 +66,4 @@ Graph with cycles
 
 - [meidum.com/vaidehi-joshi](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [techinterviewhandbook.org/graphs](https://www.techinterviewhandbook.org/algorithms/graph/)
-- [wikipedia](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
+- [wikipedia](<https://en.wikipedia.org/wiki/Graph_(abstract_data_type)>)
